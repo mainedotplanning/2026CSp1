@@ -8,7 +8,7 @@
 # create the highway projects app
 # see if expressway roadway context can be added
 
-#rsconnect::writeManifest()
+
 
 library(shiny)
 library(shinyjs)
@@ -27,6 +27,8 @@ library(googledrive)
 ######
 #-------------------------------
 # Global Options
+
+# rsconnect::writeManifest()
 
 # Google Sheets authentication for shiny.io server
 
