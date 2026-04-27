@@ -132,7 +132,7 @@ ui <- function(request) {
                                               "Step 3 Saved Responses", icon = bsicons::bs_icon("menu-app"),
                                               
                                               p("Saved responses can be edited directly in google sheets: "),
-                                              HTML('<a href=response_sheet 
+                                              HTML('<a href="https://docs.google.com/spreadsheets/d/11F4HfNUOtYcFETGcO9y8KnXnIpzWjsApN4O7emppA_Y/" 
                      target="_blank">Completed Responses Table</a>'),
                                               br(),
                                               p(" or you can view saved responses below:"),
